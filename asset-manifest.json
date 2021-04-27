@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/keepprogress/ReactPractice/static/css/main.07ae76c2.chunk.css",
+    "main.js": "/keepprogress/ReactPractice/static/js/main.1b46a22a.chunk.js",
+    "main.js.map": "/keepprogress/ReactPractice/static/js/main.1b46a22a.chunk.js.map",
+    "runtime-main.js": "/keepprogress/ReactPractice/static/js/runtime-main.b305d7f9.js",
+    "runtime-main.js.map": "/keepprogress/ReactPractice/static/js/runtime-main.b305d7f9.js.map",
+    "static/css/2.fe359a49.chunk.css": "/keepprogress/ReactPractice/static/css/2.fe359a49.chunk.css",
+    "static/js/2.8eb7bed4.chunk.js": "/keepprogress/ReactPractice/static/js/2.8eb7bed4.chunk.js",
+    "static/js/2.8eb7bed4.chunk.js.map": "/keepprogress/ReactPractice/static/js/2.8eb7bed4.chunk.js.map",
+    "index.html": "/keepprogress/ReactPractice/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/keepprogress/ReactPractice/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.07ae76c2.chunk.css.map": "/keepprogress/ReactPractice/static/css/main.07ae76c2.chunk.css.map",
+    "static/js/2.8eb7bed4.chunk.js.LICENSE.txt": "/keepprogress/ReactPractice/static/js/2.8eb7bed4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/keepprogress/ReactPractice/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b305d7f9.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.8eb7bed4.chunk.js",
+    "static/css/main.07ae76c2.chunk.css",
+    "static/js/main.1b46a22a.chunk.js"
+  ]
+}
